@@ -1,8 +1,6 @@
 # SparkNLP_PetProject
 PetProject по использованию PySpark, Airflow, Docker, CI/CD, Grafana, Postgres, SnakeMake, MLFlow, DVC
-```
-______________________________________________________________________________________________________
-```
+
 ## Оглавление
 
 1. [Постановка NLP задачи](#Постановка-NLP-задачи)
@@ -15,9 +13,7 @@ ________________________________________________________________________________
 8. [SnakeMake](#SnakeMake)
 9. [MLFlow](#MLFlow)
 10. [DVC](#DVC)
-```
-____
-```
+
 ## Постановка NLP задачи:
 ### Context
 It's interesting to explore various approaches to hierarchical text classification.
@@ -37,42 +33,22 @@ Ideas to explore:
 a "flat" approach – concatenate class names like "level1/level2/level3", then train a basic mutli-class model
 simple hierarchical approach: first, level 1 model classifies reviews into 6 level 1 classes, then one of 6 level 2 models is picked up, and so on.
 fancy approaches like seq2seq with reviews as input and "level1 level2 level3" strings as outputs
-```
-____
-```
+
 ## PySpark
-```
-____
-```
+
 ## Airflow
-```
-____
-```
+
 ## Docker
-```
-____
-```
+
 ## CI/CD
-```
-____
-```
+
 ## Grafana
-```
-____
-```
+
 ## Postgres
-```
-____
-```
+
 ## SnakeMake
-```
-____
-```
+
 ## MLFlow
-```
-____
-```
+
 ## DVC
-```
-____
-```
+
