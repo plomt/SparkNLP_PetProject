@@ -15,6 +15,7 @@ PetProject по использованию PySpark, Airflow, Docker, CI/CD, Graf
 10. [DVC](#DVC)
 
 ## Постановка NLP задачи:
+https://www.kaggle.com/datasets/kashnitsky/hierarchical-text-classification?resource=download&select=val_10k.csv
 ### Context
 It's interesting to explore various approaches to hierarchical text classification.
 
