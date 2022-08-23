@@ -1,22 +1,26 @@
 # SparkNLP_PetProject
 PetProject по использованию PySpark, Airflow, Docker, CI/CD, Grafana, Postgres, SnakeMake, MLFlow, DVC
 
-# Решаемая NLP задача:
+## Оглавление
 
-# PySpark
+1. [Постановка NLP задачи]
 
-# Airflow
+## Решаемая NLP задача:
 
-# Docker
+## PySpark
 
-# CI/CD
+## Airflow
 
-# Grafana
+## Docker
 
-# Postgres
+## CI/CD
 
-# SnakeMake
+## Grafana
 
-# MLFlow
+## Postgres
 
-# DVC
+## SnakeMake
+
+## MLFlow
+
+## DVC
